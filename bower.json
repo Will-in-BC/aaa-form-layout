@@ -1,0 +1,7 @@
+{
+  "name": "aaa-form-layout#gh-pages",
+  "private": true,
+  "dependencies": {
+    "aaa-form-layout": "Will-in-BC/aaa-form-layout#master"
+  }
+}

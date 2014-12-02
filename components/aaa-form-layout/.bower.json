@@ -1,0 +1,40 @@
+{
+  "name": "aaa-form-layout",
+  "authors": [
+    "Will Hopkins"
+  ],
+  "description": "Element that layouts out and interacts with a form",
+  "keywords": [
+    "Polymer",
+    "web-components"
+  ],
+  "main": "aaa-form-layout.html",
+  "license": "MIT",
+  "homepage": "https://github.com/Will-in-BC/aaa-form-layout/",
+  "ignore": [
+    "/.*",
+    "/tests/",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "../",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.1"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^2.0.0-rc1"
+  },
+  "_release": "b999bf9b11",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "b999bf9b118ae5b84b2611c65b926d8fe367645d"
+  },
+  "_source": "git://github.com/Will-in-BC/aaa-form-layout.git",
+  "_target": "master",
+  "_originalSource": "Will-in-BC/aaa-form-layout",
+  "_direct": true
+}
