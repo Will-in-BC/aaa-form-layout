@@ -1,15 +1,15 @@
 [
 	[
-		{"fieldLabel":"ID", "fieldAttribute":"iD", "useControl":"input", "disabled":true, "class":"refreshLabel"},
-		{"fieldLabel":"ConControl", "fieldAttribute":"conControl", "useControl":"input", "disabled":true, "class":"refreshLabel"}
+		{"fieldLabel":"ID", "fieldAttribute":"iD", "useControl":"input", "disabled":true, "class":"refreshLabel", "value":""},
+		{"fieldLabel":"ConControl", "fieldAttribute":"conControl", "useControl":"input", "disabled":true, "class":"refreshLabel", "value":""}
 	],
 	[
-		{"fieldLabel":"First Name", "fieldAttribute":"firstName", "useControl":"input", "class":"disableOnWait refreshLabel"},
-		{"fieldLabel":"Last Name", "fieldAttribute":"lastName", "useControl":"input", "class":"disableOnWait refreshLabel"}
+		{"fieldLabel":"First Name", "fieldAttribute":"firstName", "useControl":"input", "class":"disableOnWait refreshLabel", "value":""},
+		{"fieldLabel":"Last Name", "fieldAttribute":"lastName", "useControl":"input", "class":"disableOnWait refreshLabel", "value":""}
 	],
 	[
-		{"fieldLabel":"Blurb", "fieldAttribute":"blurb", "useControl":"input", "class":"disableOnWait"},
-		{"fieldLabel":"Boolean", "fieldAttribute":"onoroff", "useControl":"toggle", "class":"disableOnWait"}
+		{"fieldLabel":"Blurb", "fieldAttribute":"blurb", "useControl":"input", "class":"disableOnWait", "value":""},
+		{"fieldLabel":"Boolean", "fieldAttribute":"onoroff", "useControl":"toggle", "class":"disableOnWait", "value":false}
 	],
 	[
 		{"fieldLabel":"Slider", "fieldAttribute":"slider", "useControl":"slider", "class":"disableOnWait", "min":0,"max":30,"value":0,"step":5}
